@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/complete-java-for-automation-testers-from-scratch-video/9781789134711)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Complete Java for Automation Testers from Scratch		
 This is the code repository for [Complete Java for Automation Testers from Scratch](https://www2.packtpub.com/application-development/complete-java-automation-testers-scratch-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
